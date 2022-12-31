@@ -1,0 +1,657 @@
+@media (min-width: 1200px) and (max-width: 1335px){
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    .imge img{
+        top: 537px;
+    }
+    .p3 img{
+        left: 10px;
+    }
+    .title{right: 310px;}
+    .page-six h4{left: 156px; top: 380px;}
+    .page-six h5{left: 515px; top: 380px;}
+
+}
+/* // Large devices (desktops, less than 1200px) */
+@media (min-width: 988px) and (max-width: 1200px) {
+    .container{
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    .imge img{
+        top: 590px;
+        width: 100%;
+        right: 0px;
+    }
+    .p3 img{
+        left: 10px;
+        width: 100%;
+    }
+    .title h1{font-size: 80px;}
+    .title{
+        right: 240px;
+        top: 170px;
+    }
+    .page-six h4{left: 115px; top: 370px;}
+    .page-six h5{left: 445px; top: 370px;}
+    .left-side h4{left: 28px;}
+    .left-side h5{left: 415px;}
+    .link-f h1{font-size: 25px;}
+    .page2 h1{bottom: 0px;
+        left: 20px !important;
+    }
+    .page h1{
+        bottom: 0px;
+        left: 40px;
+    }
+    .ab img{
+        height: 460px;
+        width: 300px;
+    }
+    .img5 img{
+        width: 100%;
+    }
+    .p5-01 {
+        padding: 0px 0 0 0px;
+    }
+    .p5-h1 h1{
+        padding: 8px 0 0  0;
+        font-size: 75px;
+    }
+    
+}
+/* // Medium devices (tablets, less than 992px) */
+@media(min-width: 868px) and (max-width: 989px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+        }
+        .left img{padding: 50px 0;}
+        .imge img{
+            top: 430px;
+            width: 100%;
+            right: 0px;
+        }
+        .p3 img{
+            left: 0px;
+            width: 100%;
+        }
+        .title h1{font-size: 60px;}
+        .title{
+            right: 240px;
+            top: 205px;
+        }
+        .page-six h4{left: 85px; top: 375px;}
+        .page-six h5{left: 400px; top: 370px;}
+        .left-side h4{left: 27px;}
+        .left-side h5{left: 360px;}
+        .link-f h1{font-size: 25px;}
+        .page2 h1{bottom: 0px;
+            left: 10px !important;
+        }
+        .page h1{
+            top: 40px;
+            left: 40px;
+        }
+        .page h2{font-size: 29px;}
+        .ab img{
+            height: 460px;
+            width: 260px;
+        }
+        .img5 img{
+            width: 100%;
+        }
+        .p5-h1{padding: 40px 0 0 0;}
+        .p5-01 {
+            padding: 0px 0 0 0px;
+        }
+        .p5-01 h1{padding: 20px 0 20px 58px;}
+        .p5-01 p{
+            width: 100%;
+            padding: 0px 0 0 55px;
+        }
+        .p5-h1 h1{
+            padding: 0px 0 15px  0;
+            font-size: 55px;
+        }
+        .p2 ul li a {
+            font-size: 24px;
+        }
+        .left-side h1 {
+        font-size: 48px;
+        }   
+}
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 668px) and (max-width: 868px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .lin ul li a{
+        padding: 3px 5px;
+    }
+    .nav{
+        font-size: 20px;
+    }
+    .left-side p{margin: 20px auto;}
+    .search input{padding: 0px;}
+    .left img{
+        padding: 50px 0;
+        width: 100%;
+    }
+        .imge img{
+            top: 490px;
+            width: 100%;
+            right: 0px;
+        }
+        .p2{padding: 50px 0 50px 0;}
+        .p3 img{
+            left: 0px;
+            width: 100%;
+        }
+        .title h1{font-size: 45px;}
+        .title{
+            right: 200px;
+            top: 141px;
+        }
+        .page-six h4{left: 65px; top: 191px;
+            font-size: 25px;
+        }
+        .page-six h5{
+            left: 335px; top: 190px;
+            font-size: 25px;
+        }
+        .left-side h4{
+            left: 27px;
+            font-size: 30px;
+            top: 126px;
+        }
+        .left-side h5{
+            left: 280px;
+            font-size: 30px;
+            top: 88px;
+        }
+        .link-f h1{font-size: 25px;}
+        .page2 h1{bottom: 0px;
+            left: 10px !important;
+        }
+        .page h1{
+            top: 39px;
+            left: 16px;
+            font-size: 24px;
+        }
+        .page h2{font-size: 23px;}
+        .ab img{
+            height: 390px;
+            width: 210px;
+        }
+        .ab{padding: 0px;}
+        .img5 img{
+            width: 100%;
+        }
+        .p5-h1{padding: 40px 0 0 0;}
+        .p5-01 {
+            padding: 0px 0 0 0px;
+        }
+        .p5-01 h1{padding: 5px 0 13px 30px; font-size: 20px;}
+        .p5-01 p{
+            width: 100%;
+            padding: 0px 0 0 28px;
+        }
+        .lore p{
+            padding: 35px 0 0 0 ;
+        }
+        .sec4-h1 h1 {
+            font-size: 40px;
+            padding: 0 0 10px 0;}
+            .sec4-h4 {
+                padding: 10px 0;
+            }
+        .p5-h1 h1{
+            padding: 0px 0 15px  0;
+            font-size: 55px;
+        }
+        .p2 ul li a {
+            font-size: 24px;
+        }
+        .left-side h1 {
+        font-size: 38px;
+        }   
+        .lin ul li{padding: 0px;}
+        .right h1{font-size: 50px;}
+        .right p{width: 90%;}
+        .seven-h1 p {
+            width: 85%;
+            font-size: 20px;
+        }
+        .seven-h1 h1{
+            font-size: 65px;
+        }
+}
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (min-width:599px) and (max-width: 669px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .nav{
+        font-size: 20px;
+        display: flex !important;
+    }
+    .left-side p{margin: 20px auto;}
+    .search input{padding: 0px;}
+    .left img{
+        padding: 50px 0;
+        width: 100%;
+    }
+        .imge img{
+            top: 0px;
+            width: 100%;
+            right: 0px;
+        }
+        .p2{padding: 50px 0 50px 0;}
+        .p3 img{
+            left: 0px;
+            top: 0px;
+            width: 100%;
+        }
+        .title h1{
+            text-align: center;
+            font-size: 45px;
+            display: inline-block;
+        }
+        .title{
+            right: 190px;
+        }
+        .page h2{padding: 100px 0 30px 0;}
+        .title h1{
+            display: block;
+
+        }
+        .page-six h4{left: 0px; top: 191px;
+            font-size: 25px;
+        }
+        .page-six h5{
+            left: 0px; top: 0px;
+            font-size: 25px;
+        }
+        .left-side h4{
+            left: 0px;
+            font-size: 30px;
+            top: 10px;
+        }
+        .left-side h5{
+            left: 0px;
+            font-size: 30px;
+            top: 88px;
+        }
+        .link-f h1{font-size: 25px;}
+        .page2 h1{bottom: 0px;
+            left: 0px !important;
+        }
+        .page h1{
+            text-align: center;
+            font-size: 24px;
+            left: 0px;
+        }
+        .page h2{font-size: 23px;}
+        .ab img{
+            height:720px;
+            width: 100%
+        }
+        .ab{padding: 0px;}
+        .img5 img{
+            width: 100%;
+        }
+        .p5-h1{padding: 40px 0 0 0;}
+        .p5-01 {
+            padding: 0px 0 0 0px;
+        }
+        .p5-01 h1{padding: 5px 0 13px 30px; font-size: 20px;}
+        .p5-01 p{
+            width: 100%;
+            padding: 0px 0 0 28px;
+        }
+        .lore p{
+            padding: 35px 0 0 0 ;
+        }
+        .sec4-h1 h1 {
+            font-size: 40px;
+            padding: 0 0 10px 0;}
+            .sec4-h4 {
+                padding: 10px 0;
+            }
+        .p5-h1 h1{
+            padding: 0px 0 15px  0;
+            font-size: 55px;
+        }
+        .p2 ul li a {
+            font-size: 24px;
+        }
+        .left-side h1 {
+        font-size: 38px;
+        }   
+        .footer{
+            width: 100%;
+            padding: 50px 0px 50px 100px;
+        }
+        .foot h1 {
+            padding: 9px 0 9px 19px;
+        }
+        .right-side {
+            width: 94%;
+            padding: 0px 0 40px 50px;
+        }
+        .b-2 {
+            padding: 0px 0 0px 0px;
+        }
+        .col-25{width: 100%;}
+        .lin ul li{padding: 0px;}
+        .right h1{font-size: 50px;}
+        .right p{width: 90%;}
+        .seven-h1 p {
+            width: 85%;
+            font-size: 20px;
+        }
+        .seven-h1 h1{
+            font-size: 65px;
+        }
+        .row{
+            display: block;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .col-30{width: 100%;}
+        .heading h1{
+            font-size: 40px;
+        }
+}
+@media(min-width:470px) and (max-width:599px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .nav{
+        font-size: 20px;
+        display: flex !important;
+    }
+    .left-side p{margin: 20px auto;}
+    .search input{padding: 0px;}
+    .left img{
+        padding: 50px 0;
+        width: 100%;
+    }
+        .imge img{
+            top: 0px;
+            width: 100%;
+            right: 0px;
+        }
+        .p2{padding: 50px 0 50px 0;}
+        .p3 img{
+            left: 0px;
+            top: 0px;
+            width: 100%;
+        }
+        .title h1{
+            text-align: center;
+            font-size: 45px;
+            display: inline-block;
+        }
+        .title{
+            right: 100px;
+        }
+        .page h2{padding: 100px 0 30px 0;}
+        .title h1{
+            display: block;
+
+        }
+        .page-six h4{left: 0px; top: 191px;
+            font-size: 25px;
+        }
+        .page-six h5{
+            left: 0px; top: 0px;
+            font-size: 25px;
+        }
+        .left-side h4{
+            left: 0px;
+            font-size: 30px;
+            top: 10px;
+        }
+        .left-side h5{
+            left: 0px;
+            font-size: 30px;
+            top: 88px;
+        }
+        .link-f h1{font-size: 25px;}
+        .page2 h1{bottom: 0px;
+            left: 0px !important;
+        }
+        .page h1{
+            text-align: center;
+            font-size: 24px;
+            left: 0px;
+        }
+        .page h2{font-size: 23px;}
+        .ab img{
+            height:720px;
+            width: 100%
+        }
+        .ab{padding: 0px;}
+        .img5 img{
+            width: 100%;
+        }
+        .p5-h1{padding: 40px 0 0 0;}
+        .p5-01 {
+            padding: 0px 0 0 0px;
+        }
+        .p5-01 h1{padding: 5px 0 13px 30px; font-size: 20px;}
+        .p5-01 p{
+            width: 100%;
+            padding: 0px 0 0 28px;
+        }
+        .lore p{
+            padding: 35px 0 0 0 ;
+        }
+        .sec4-h1 h1 {
+            font-size: 40px;
+            padding: 0 0 10px 0;}
+            .sec4-h4 {
+                padding: 10px 0;
+            }
+        .p5-h1 h1{
+            padding: 0px 0 15px  0;
+            font-size: 55px;
+        }
+        .p2 ul li a {
+            font-size: 24px;
+        }
+        .left-side h1 {
+        font-size: 38px;
+        }   
+        .footer{
+            width: 100%;
+            padding: 50px 0px 50px 100px;
+        }
+        .foot h1 {
+            padding: 9px 0 9px 19px;
+        }
+        .right-side {
+            width: 94%;
+            padding: 0px 0 40px 50px;
+        }
+        .b-2 {
+            padding: 0px 0 0px 0px;
+        }
+        .col-25{width: 100%;}
+        .lin ul li{padding: 0px;}
+        .right h1{font-size: 50px;}
+        .right p{width: 90%;}
+        .seven-h1 p {
+            width: 85%;
+            font-size: 20px;
+        }
+        .seven-h1 h1{
+            font-size: 65px;
+        }
+        .row{
+            display: block;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .col-30{width: 100%;}
+        .heading h1{
+            font-size: 35px;
+        }
+}
+@media(min-width:0px) and (max-width:470px){
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .heading h1{
+        font-size: 30px;
+    }
+    .nav{
+        font-size: 17px;
+        display: flex !important;
+    }
+    .left-side p{margin: 20px auto;}
+    .search input{padding: 0px;}
+    .left img{
+        padding: 50px 0;
+        width: 100%;
+    }
+        .imge img{
+            top: 0px;
+            width: 100%;
+            right: 0px;
+        }
+        .p2{padding: 50px 0 50px 0;}
+        .p3 img{
+            left: 0px;
+            top: 0px;
+            width: 100%;
+        }
+        .title h1{
+            text-align: center;
+            font-size: 35px;
+            display: inline-block;
+        }
+        .title{
+            right: 70px;
+        }
+        .page h2{padding: 100px 0 30px 0;}
+        .title h1{
+            display: block;
+        }
+        .seven-h1 h5{
+            font-size: 20px;
+        }
+        .page-six h4{left: 0px; top: 191px;
+            font-size: 18px;
+        }
+        .page-six h5{
+            left: 0px; top: 0px;
+            font-size: 18px;
+        }
+        .left-side h4{
+            left: 0px;
+            font-size: 20px;
+            top: 10px;
+        }
+        .left-side h5{
+            left: 0px;
+            font-size: 20px;
+            top: 88px;
+        }
+        .link-f h1{font-size: 18px;}
+        .page2 h1{bottom: 0px;
+            left: 0px !important;
+        }
+        .page h1{
+            text-align: center;
+            font-size: 16px;
+            left: 0px;
+        }
+        .page h2{font-size: 16px;}
+        .ab img{
+            height:720px;
+            width: 100%
+        }
+        .ab{padding: 0px;}
+        .img5 img{
+            width: 100%;
+        }
+        .p5-h1{padding: 40px 0 0 0;}
+        .p5-01 {
+            padding: 0px 0 0 0px;
+        }
+        .p5-01 h1{padding: 5px 0 13px 30px; font-size: 20px;}
+        .p5-01 p{
+            width: 100%;
+            padding: 0px 0 0 28px;
+        }
+        .lore p{
+            padding: 35px 0 0 0 ;
+        }
+        .sec4-h1 h1 {
+            font-size: 30px;
+            padding: 0 0 10px 0;}
+            .sec4-h4 {
+                padding: 10px 0;
+            }
+        .p5-h1 h1{
+            padding: 0px 0 15px  0;
+            font-size: 40px;
+        }
+        .p2 ul li a {
+            font-size: 14px;
+        }
+        .left-side h1 {
+        font-size: 28px;
+        }   
+        .footer{
+            width: 100%;
+            padding: 50px 0px 50px 100px;
+        }
+        .foot h1 {
+            padding: 9px 0 9px 19px;
+        }
+        .right-side {
+            width: 94%;
+            padding: 0px 0 40px 50px;
+        }
+        .b-2 {
+            padding: 0px 0 0px 0px;
+        }
+        .col-25{width: 100%;}
+        .lin ul li{padding: 0px;}
+        .right h1{font-size: 40px;}
+        .right p{width: 90%;}
+        .seven-h1 p {
+            width: 85%;
+            font-size: 15px;
+        }
+        .seven-h1 h1{
+            font-size: 35px;
+        }
+        .row{
+            display: block;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .col-30{width: 100%;}
+        .heading h5{top:0px}
+} 
